@@ -1,14 +1,14 @@
 [en ]Accounts and helpful info for the Bulgarian Mastodon space
 
 # Здравейте
-Тук ще намерите информация за интересни хора и инициативи, които можете да следвате в децентрализираната мрежа Mastodon.
+Тук ще намерите информация за интересни хора и инициативи, които можете да следвате в [федеративната мрежа Mastodon](https://docs.joinmastodon.org/).
 
 # Довавяне
 В началото този списък няма да е пълен, затова ако искате да добавите нещо към списъка:
 
 1. Използвайте Pull Request (за предпочитане) 
 2. Aко не знаете как и не искате да се научите, използвайте менюто Issues и добавете ново
-3. Пишете ми в mastodon <code>@bogo@hapyyr.com</code>
+3. Пишете ми в mastodon \@bogo@hapyyr.com 
 
 
 # Списък на интересни хора за следване
@@ -47,3 +47,4 @@
 |@btanev@mastodon.social|  |
 |@dni@mastodon.social|  |
 |@milengg@mastodon.social| #Plastic extrusion #Flexoprinting, #Open Source, #ERP & CRM software|
+|@karakusheva@mstdn.social| #Music|
