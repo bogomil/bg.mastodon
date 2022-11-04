@@ -29,7 +29,7 @@
 |[@nikoinikov@mastodon.social](https://astodon.social/@nikoinikov)|  |
 |[@marticha@mastodon.social](https://mastodon.social/@marticha) |  |
 |[@strahil@mastodon.social](https://mastodon.social/@strahil) |  |
-|[@d__b@mastodon.social]|(https://mastodon.social/@d__b)  | |
+|[@d__b@mastodon.social](https://mastodon.social/@d__b)  |  |
 |[@molif@mastodon.social](https://mastodon.social/@molif) |  |
 |[@vulkanoff@mastodon.social](https://mastodon.social/@vulkanoff) |  #climatechange #sociology #politics #tech & #economics   |
 |[@DaniIvanov@mastodon.social](https://mastodon.social/@DaniIvanov)| #Журналистика |
