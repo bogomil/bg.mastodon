@@ -21,7 +21,7 @@
 |@ltinuviel@mastodon.lol | - |
 |@kunev@mastodon.green | - |
 |@petko@petko.me |-  |
-|@optimiced@mastodon.social | - |
+|[@optimiced@mastodon.social](https://mastodon.social/@optimiced) | - |
 |@torbalan@mastodon.nl |- |
 |@magesnik@mastodon.social |  |
 |@gyd1992@mastodon.lol |  |
