@@ -1,9 +1,9 @@
-[en ]Accounts and helpful info for the Bulgarian Mastodon space
+[en ]This account contains a list of accounts and valuable info for the Bulgarian Mastodon space.
 
 # Здравейте
 Тук ще намерите информация за интересни хора и инициативи, които можете да следвате в [федеративната мрежа Mastodon](https://docs.joinmastodon.org/).
 
-# Довавянe/Редактиране/Изтриване
+# Добавянe/Редактиране/Изтриване
 В началото този списък няма да е пълен, затова ако искате да добавите (или друго действие) нещо към списъка:
 
 1. Използвайте Pull Request (за предпочитане) 
@@ -48,3 +48,11 @@
 |[@milengg@mastodon.social](https://mastodon.social/@milengg)| #Plastic extrusion #Flexoprinting, #Open Source, #ERP & CRM software|
 |[@karakusheva@mstdn.social](https://mstdn.social/@karakusheva)| #Music|
 |[@ju@mastodon.social](https://mastodon.social/@ju)|
+
+
+#Полезни връзки
+## Какво е Mаstodon и защо е полезен
+за добавяне
+
+## Kак да се регистрирам
+за добавяне
