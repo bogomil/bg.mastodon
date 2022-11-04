@@ -1,4 +1,4 @@
-[en ]This account contains a list of accounts and valuable info for the Bulgarian Mastodon space.
+[en ]This account contains a list of accounts and valuable info for the Bulgarian Mastodon space. 
 
 # Здравейте
 Тук ще намерите информация за интересни хора и инициативи, които можете да следвате в [федеративната мрежа Mastodon](https://docs.joinmastodon.org/).
@@ -11,9 +11,9 @@
 3. Пишете ми в mastodon [@bogo@hapyyr.com](https://hapyyr.com/@bogo) 
 
 
-# Списък на интересни хора за следване
+# Списък на хора, които пишат и на български.
 
-| Mastodon адрес  | Категория |
+| #Fediverse адрес  | Категория |
 | ------------- | ------------- |
 |[@bogo@hapyyr.com](https://hapyyr.com/@bogo) | #DigitalTrust #FOSS #Privacy|
 |[@muiiio@mstdn.io](http://mstdn.io/@muiiio) | |
@@ -48,7 +48,15 @@
 |[@milengg@mastodon.social](https://mastodon.social/@milengg)| #Plastic extrusion #Flexoprinting, #Open Source, #ERP & CRM software|
 |[@karakusheva@mstdn.social](https://mstdn.social/@karakusheva)| #Music|
 |[@ju@mastodon.social](https://mastodon.social/@ju)||
-|[@dHardestBattles@mastodon.social](https://mastodon.social/dHardestBattles)||
+|[@dHardestBattles@mastodon.social](https://mastodon.social/@dHardestBattles)||
+|[@yovko@mastodon.sdf.org](https://mastodon.sdf.org/@yovko|#IT #Blogging #Foss|
+|[@Aragorn_BG@mstdn.social](https://mstdn.social/@Aragorn_BG||
+|[@ddelsizov@mastodon.lol ](https://mastodon.lol/@ddelsizov||
+|[@tsvetelin@mstdn.io](https://mstdn.io/@tsvetelin||
+|[@tweykini@mastodon.lol](https://mastodon.lol/@tweykini||
+|[@yurukov@mastodon.green](https://mastodon.green/@yurukov||
+|[@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen||
+
 
 
 ## Какво е Mаstodon и защо е полезен
