@@ -29,7 +29,7 @@
 |[@nikoinikov@mastodon.social](https://astodon.social/@nikoinikov)|  |
 |[@marticha@mastodon.social](https://mastodon.social/@marticha) |  |
 |[@strahil@mastodon.social](https://mastodon.social/@strahil) |  |
-|[@d__b@mastodon.social]|(https://mastodon.social/@d__b)  |
+|[@d__b@mastodon.social]|(https://mastodon.social/@d__b)  | |
 |[@molif@mastodon.social](https://mastodon.social/@molif) |  |
 |[@vulkanoff@mastodon.social](https://mastodon.social/@vulkanoff) |  #climatechange #sociology #politics #tech & #economics   |
 |[@DaniIvanov@mastodon.social](https://mastodon.social/@DaniIvanov)| #Журналистика |
@@ -47,4 +47,4 @@
 |[@dni@mastodon.social](https://mastodon.social@dni)|  |
 |[@milengg@mastodon.social](https://mastodon.social/@milengg)| #Plastic extrusion #Flexoprinting, #Open Source, #ERP & CRM software|
 |[@karakusheva@mstdn.social](https://mstdn.social/@karakusheva)| #Music|
-|[@ju@mastodon.social]|
+|[@ju@mastodon.social](https://mastodon.social/@ju)|
