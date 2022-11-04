@@ -66,7 +66,7 @@
 |[@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)||
 |[@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)||
 |[@laveol@mastodon.lol](https://mastodon.lol/@laveol)||
-|[@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)|bg.cafe - Български Мастодон инстанция, (art, crafts, CNC, 3Dprinting, Twitter diaspora) |
+|[@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)|bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora) |
 
 
 ## Какво е Mаstodon и защо е полезен
