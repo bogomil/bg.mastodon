@@ -49,13 +49,13 @@
 |[@karakusheva@mstdn.social](https://mstdn.social/@karakusheva)| #Music|
 |[@ju@mastodon.social](https://mastodon.social/@ju)||
 |[@dHardestBattles@mastodon.social](https://mastodon.social/@dHardestBattles)||
-|[@yovko@mastodon.sdf.org](https://mastodon.sdf.org/@yovko|#IT #Blogging #Foss|
-|[@Aragorn_BG@mstdn.social](https://mstdn.social/@Aragorn_BG||
-|[@ddelsizov@mastodon.lol ](https://mastodon.lol/@ddelsizov||
-|[@tsvetelin@mstdn.io](https://mstdn.io/@tsvetelin||
-|[@tweykini@mastodon.lol](https://mastodon.lol/@tweykini||
-|[@yurukov@mastodon.green](https://mastodon.green/@yurukov||
-|[@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen||
+|[@yovko@mastodon.sdf.org](https://mastodon.sdf.org/@yovko)|#IT #Blogging #Foss|
+|[@Aragorn_BG@mstdn.social](https://mstdn.social/@Aragorn_BG)||
+|[@ddelsizov@mastodon.lol ](https://mastodon.lol/@ddelsizov)||
+|[@tsvetelin@mstdn.io](https://mstdn.io/@tsvetelin)||
+|[@tweykini@mastodon.lol](https://mastodon.lol/@tweykini)||
+|[@yurukov@mastodon.green](https://mastodon.green/@yurukov)||
+|[@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen)||
 
 
 
