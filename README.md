@@ -56,7 +56,16 @@
 |[@tweykini@mastodon.lol](https://mastodon.lol/@tweykini)||
 |[@yurukov@mastodon.green](https://mastodon.green/@yurukov)||
 |[@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen)||
-
+|[@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)||
+|[@simo_e_pich@mastodon.lol](https://mastodon.lol/@simo_e_pich)||
+|[@Vachwarz@mastodon.social](https://mastodon.social/@Vachwarz)||
+|[@btanev@mastodon.social](https://mastodon.social/@btanev)||
+|[@Nevyana@mastodon.lol](https://mastodon.lol/@Nevyana)||
+|[@dimitarcharov@c.im](https://c.im/@dimitarcharov)||
+|[@svetyordanov@mastodon.social](https://mastodon.social/@svetyordanov)||
+|[@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)||
+|[@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)||
+|[@laveol@mastodon.lol](https://mastodon.lol/@laveol)||
 
 
 ## Какво е Mаstodon и защо е полезен
