@@ -47,10 +47,10 @@
 |[@dni@mastodon.social](https://mastodon.social@dni)|  |
 |[@milengg@mastodon.social](https://mastodon.social/@milengg)| #Plastic extrusion #Flexoprinting, #Open Source, #ERP & CRM software|
 |[@karakusheva@mstdn.social](https://mstdn.social/@karakusheva)| #Music|
-|[@ju@mastodon.social](https://mastodon.social/@ju)|
+|[@ju@mastodon.social](https://mastodon.social/@ju)||
+|[@dHardestBattles@mastodon.social](https://mastodon.social/dHardestBattles)||
 
 
-#Полезни връзки
 ## Какво е Mаstodon и защо е полезен
 за добавяне
 
