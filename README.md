@@ -48,3 +48,4 @@
 |@dni@mastodon.social|  |
 |@milengg@mastodon.social| #Plastic extrusion #Flexoprinting, #Open Source, #ERP & CRM software|
 |@karakusheva@mstdn.social| #Music|
+|@ju@mastodon.social|
