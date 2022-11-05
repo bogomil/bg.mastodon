@@ -67,6 +67,7 @@
 |[@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)||
 |[@laveol@mastodon.lol](https://mastodon.lol/@laveol)||
 |[@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)|bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora) |
+|[@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| tech, AI, politics|
 
 
 ## Български сървъри
@@ -75,6 +76,7 @@
 | ------------- | ------------- | ------------- |
 |[bgtooter.social](https://bgtooter.social) |[@admin@mastodon.danov.biz](https://mastodon.danov.biz/@admin) | 4.11 |
 |[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| 4.11 |
+|[mastodonbg.com](https://mastodonbg.com)| [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| 5.11 |
 
 
 ## Какво е Mаstodon и защо е полезен
