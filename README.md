@@ -73,7 +73,7 @@
 
  #Адрес  | Администратор | Дата
 | ------------- | ------------- | ------------- |
-|[bgtooter.social](https://bgtooter.social) |[@admin@mastodon.danov.biz](https://mastodon.danov.biz/@admin) | 4.11 |
+|[bgtooter.social](https://bgtooter.social) |[@gdanov@bgtooter.social](https://bgtooter.social/@gdanov) | 4.11 |
 |[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| 4.11 |
 
 
