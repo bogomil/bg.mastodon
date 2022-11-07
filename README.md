@@ -16,6 +16,9 @@
 # А
 - [@Abe_angele@mastodon.social](https://mastodon.social/@Abe_angele)
 - [@Aragorn_BG@mstdn.social](https://mstdn.social/@Aragorn_BG)
+- [@aquarium@mastodon.social](https://mastodon.social/@aquarium)
+- [@acnapyx@mastodon.social](https://mastodon.social/@acnapyx)
+- [@a_tanas@mastodon.social](https://mastodon.social/@a_tanas)
 
 # B
 - [@bogo@hapyyr.com](https://hapyyr.com/@bogo) - #DigitalTrust, #FOSS, #Privacy
@@ -24,6 +27,7 @@
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
 - [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky) - bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora)
 - [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права 
+- [@boris_@mastodon.social](https://mastodon.social/@boris_)
 
 # C
 - [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
@@ -46,6 +50,9 @@
 # G
 - [@gyd1992@mastodon.lol](https://mastodon.lol/@gyd1992)
 
+# I
+- [@ivanangelov@mastodon.social](https://mastodon.social/@ivanangelov)
+
 # J
 - [@ju@mastodon.social](https://mastodon.social/@ju)
 
@@ -59,7 +66,8 @@
 - [@ltinuviel@mastodon.lol](https://mastodon.lol/@ltinuviel)
 - [@letterornumber@mastodon.social](https://mastodon.social/@letterornumber)
 - [@lifeofmartina__@mastodon.social](https://mastodon.social/@lifeofmartina__) - #travel,  #nature, and #photography
-- [@laveol@mastodon.lol](https://mastodon.lol/@laveol)|
+- [@laveol@mastodon.lol](https://mastodon.lol/@laveol)
+- [@lanzz@c.im](https://c.im/@lanzz)
 
 # M
 - [@muiiio@mstdn.io](http://mstdn.io/@muiiio)
@@ -79,6 +87,7 @@
 # P
 - [@petko@petko.me](https://petko.me/@petko)
 - [@preslavrachev@mastodon.social](https://mastodon.social/@preslavrachev)
+- [@Peio@c.im](https://c.im/@Peio)
 
 # S
 - [@strahil@mastodon.social](https://mastodon.social/@strahil)
@@ -91,6 +100,7 @@
 - [@tsvetelin@mstdn.io](https://mstdn.io/@tsvetelin)
 - [@tweykini@mastodon.lol](https://mastodon.lol/@tweykini)
 - [@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)
+- [@traffopost@bg.cafe](https://bg.cafe/@traffopost)
 
 # U
 - [@uesnonema@mastodon.online](https://mastodon.online/@uesnonema)
