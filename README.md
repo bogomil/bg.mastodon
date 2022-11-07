@@ -6,9 +6,9 @@
 # Добавянe/Редактиране/Изтриване
 В началото този списък няма да е пълен, затова ако искате да добавите (или друго действие) нещо към списъка:
 
-1. Използвайте Pull Request (за предпочитане) 
-2. Aко не знаете как и не искате да се научите, използвайте менюто Issues и добавете ново
-3. Пишете ми в mastodon [@bogo@hapyyr.com](https://hapyyr.com/@bogo) 
+1. Използвайте Pull Request (за предпочитане).
+2. Aко не знаете как и не искате да се научите, използвайте менюто Issues и добавете ново.
+3. Пишете ми в mastodon [@bogo@hapyyr.com](https://hapyyr.com/@bogo) (може да отнеме няколко дни).
 
 
 # Списък на хора, които пишат и на български.
@@ -97,6 +97,7 @@
 
 # V 
 - [@Vachwarz@mastodon.social](https://mastodon.social/@Vachwarz)
+- [@vihargg@mast.to](https://mas.to/@vihargg) -  #PublicPolicy, #eGovernment, #DigitalTransformation, #EU #policymaking
 
 # Y 
 - [@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)
