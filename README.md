@@ -13,11 +13,11 @@
 
 # Списък на хора, които пишат и на български.
 
-#А
+# А
 - [@Abe_angele@mastodon.social](https://mastodon.social/@Abe_angele)
 - [@Aragorn_BG@mstdn.social](https://mstdn.social/@Aragorn_BG)
 
-#B
+# B
 - [@bogo@hapyyr.com](https://hapyyr.com/@bogo) - #DigitalTrust, #FOSS, #Privacy
 - [@bebodebel@mastodon.social](https://mastodon.social/@bebodebel) 
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
@@ -25,10 +25,10 @@
 - [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky) - bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora)
 - [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права 
 
-#C
+# C
 - [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
 
-#D
+# D
 - [@d__b@mastodon.social](https://mastodon.social/@d__b)
 - [@DaniIvanov@mastodon.social](https://mastodon.social/@DaniIvanov) - #Журналистика 
 - [@danaildr@mastodon.social](https://mastodon.social/@danaildr) - #foss, #Linux 
@@ -37,55 +37,55 @@
 - [@ddelsizov@mastodon.lol ](https://mastodon.lol/@ddelsizov)
 - [@dimitarcharov@c.im](https://c.im/@dimitarcharov)
 
-#E
+# E
 - [@evakeinbock@mastodon.social](https://mastodon.social/@evakeinbock)
 
-#F
+# F
 - [@face@bitcoinhackers.org](https://bitcoinhackers.org/@face)
 
-#G
+# G
 - [@gyd1992@mastodon.lol](https://mastodon.lol/@gyd1992)
 
-#J
+# J
 - [@ju@mastodon.social](https://mastodon.social/@ju)
 
-#K 
+# K 
 - [@kunev@mastodon.green](https://mastodon.green/@kunev)
 - [@kido_bea@mastodon.social](https://mastodon.social/@kido_bea)
 - [@karakusheva@mstdn.social](https://mstdn.social/@karakusheva) - #Music
 - [@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen)
 
-#L 
+# L 
 - [@ltinuviel@mastodon.lol](https://mastodon.lol/@ltinuviel)
 - [@letterornumber@mastodon.social](https://mastodon.social/@letterornumber)
 - [@lifeofmartina__@mastodon.social](https://mastodon.social/@lifeofmartina__) - #travel,  #nature, and #photography
 - [@laveol@mastodon.lol](https://mastodon.lol/@laveol)|
 
-#M
+# M
 - [@muiiio@mstdn.io](http://mstdn.io/@muiiio)
 - [@magesnik@mastodon.social](https://mastodon.social/@magesnik)
 - [@marticha@mastodon.social](https://mastodon.social/@marticha)
 - [@molif@mastodon.social](https://mastodon.social/@molif)
 - [@milengg@mastodon.social](https://mastodon.social/@milengg) - #Plastic extrusion, #Flexoprinting, #Open Source, #ERP & CRM software|
 
-#N
+# N
 - [@nikoinikov@mastodon.social](https://astodon.social/@nikoinikov)
 - [@Nevyana@mastodon.lol](https://mastodon.lol/@Nevyana)
 - [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto) - tech, AI, politics
 
-#O
+# O
 - [@optimiced@mastodon.social](https://mastodon.social/@optimiced)
 
-#P
+# P
 - [@petko@petko.me](https://petko.me/@petko)
 - [@preslavrachev@mastodon.social](https://mastodon.social/@preslavrachev)
 
-#S
+# S
 - [@strahil@mastodon.social](https://mastodon.social/@strahil)
 - [@simo_e_pich@mastodon.lol](https://mastodon.lol/@simo_e_pich)
 - [@svetyordanov@mastodon.social](https://mastodon.social/@svetyordanov)
 
-#T
+# T
 - [@torbalan@mastodon.nl](https://mastodon.nl/@torbalan)
 - [@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)
 - [@tsvetelin@mstdn.io](https://mstdn.io/@tsvetelin)
@@ -95,10 +95,10 @@
 # U
 - [@uesnonema@mastodon.online](https://mastodon.online/@uesnonema)
 
-#V 
+# V 
 - [@Vachwarz@mastodon.social](https://mastodon.social/@Vachwarz)
 
-#Y 
+# Y 
 - [@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)
 - [@YavorDonev@mastodon.social](https://mastodon.social/@YavorDonev)
 - [@yovko@mastodon.sdf.org](https://mastodon.sdf.org/@yovko) - #IT #Blogging #Foss
