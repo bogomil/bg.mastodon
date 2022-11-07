@@ -68,11 +68,12 @@
 |[@laveol@mastodon.lol](https://mastodon.lol/@laveol)||
 |[@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)|bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora) |
 |[@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| tech, AI, politics|
-
+|[@bozho@mastodon.social/](https://mastodon.social/@bozho)| #политика #цифрови права |
+|[@uesnonema@mastodon.online](https://mastodon.online/@uesnonema)| |
 
 ## Български сървъри
 
- #Адрес  | Администратор | Дата
+ #Адрес  | Администратор | Дата на добавяне
 | ------------- | ------------- | ------------- |
 |[bgtooter.social](https://bgtooter.social) |[@gdanov@bgtooter.social](https://bgtooter.social/@gdanov) | 4.11 |
 |[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| 4.11 |
@@ -84,3 +85,21 @@
 
 ## Kак да се регистрирам
 за добавяне
+
+
+## Клиенти
+
+### Уеб
+Всеки сървър предлага уеб интерфейс, през който можете да пишете и четете в мрежата. Има и много помощни документи да се ориентирате какво точно се прави и защо.
+
+### Клиенти
+
+#### Декстоп
+- [Sengi](https://nicolasconstant.github.io/sengi/)
+
+#### Apple
+- [MetaText](https://apps.apple.com/us/app/metatext/id1523996615). Според много потребители е с добра ползваемост. Безплатен е и е с отворен код.
+
+#### Android
+- [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android&hl=en&gl=US) - малко дървен интерфейс, но работи добре. Не можете да правите всичко, което се прави през уеб-интерфейса.
+- [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky&gl=US) - малко наподобобява интерфесйа на туйтър. 
