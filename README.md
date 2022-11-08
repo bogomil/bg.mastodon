@@ -156,4 +156,3 @@ Mastodon е с отворен код, което означава, че всек
 
 - [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
 - [Клиенти за достъп до MAstodon/Fediverse](articles/clients.md)
-- Kак да се регистрирате (скоро)
