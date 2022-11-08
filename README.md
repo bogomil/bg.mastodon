@@ -125,12 +125,12 @@
 
 ## Български сървъри
 
- #Адрес  | Администратор | Версия
-| ------------- | ------------- | ------------- |
-|[bgtooter.social](https://bgtooter.social) |[@gdanov@bgtooter.social](https://bgtooter.social/@gdanov) | v4.0.0rc2 |
-|[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| v3.5.3 |
-|[mastodonbg.com](https://mastodonbg.com)| [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| v3.5.3 |
-|[hapyyr.com](https://hapyyr.com)| [@bogo@hapyyr.cin](https://hapyyr.com/web/@bogo)| v3.5.3 |
+ #Адрес  | Администратор | Версия | Приема ли регистрации? |
+| ------------- | ------------- | ------------- | ------------- |
+|[bgtooter.social](https://bgtooter.social) |[@gdanov@bgtooter.social](https://bgtooter.social/@gdanov) | v4.0.0rc2 | да|
+|[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| v3.5.3 |да |
+|[mastodonbg.com](https://mastodonbg.com)| [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| v3.5.3 | да |
+|[hapyyr.com](https://hapyyr.com)| [@bogo@hapyyr.c0n](https://hapyyr.com/@bogo)| v3.5.3 | да, но с покани |
 
 
 ## Клиенти
