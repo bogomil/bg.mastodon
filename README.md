@@ -98,6 +98,9 @@
 - [@Peio@c.im](https://c.im/@Peio)
 - [@potiridi@mastodon.lol](https://mastodon.lol/@potiridi) 
 
+# R
+- [@ralchev@mastodon.social](https://mastodon.social/@ralchev)
+
 # S
 - [@strahil@mastodon.social](https://mastodon.social/@strahil)
 - [@simo_e_pich@mastodon.lol](https://mastodon.lol/@simo_e_pich)
