@@ -10,6 +10,7 @@
 
 #### Apple
 - [MetaText](https://apps.apple.com/us/app/metatext/id1523996615). Според много потребители е с добра ползваемост. Безплатен е и е с отворен код.
+- [Сравнение на осем приложения за Apple (на английски)](https://transponderings.blog/2022/05/21/eight-mastodon-apps-for-iphone/)
 
 #### Android
 - [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android&hl=en&gl=US) - малко дървен интерфейс, но работи добре. Не можете да правите всичко, което се прави през уеб-интерфейса.
