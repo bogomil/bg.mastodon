@@ -28,6 +28,7 @@
 - [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky) - bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora)
 - [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права 
 - [@boris_@mastodon.social](https://mastodon.social/@boris_)
+- [@bubulina@mstdn.social](https://mstdn.social/@bubulina)
 
 # C
 - [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
@@ -75,6 +76,8 @@
 - [@marticha@mastodon.social](https://mastodon.social/@marticha)
 - [@molif@mastodon.social](https://mastodon.social/@molif)
 - [@milengg@mastodon.social](https://mastodon.social/@milengg) - #Plastic extrusion, #Flexoprinting, #Open Source, #ERP & CRM software|
+- [@mviktoro@mastodon.social](https://mastodon.social/@mviktoro) - #digital ethics
+
 
 # N
 - [@nikoinikov@mastodon.social](https://astodon.social/@nikoinikov)
@@ -88,11 +91,13 @@
 - [@petko@petko.me](https://petko.me/@petko)
 - [@preslavrachev@mastodon.social](https://mastodon.social/@preslavrachev)
 - [@Peio@c.im](https://c.im/@Peio)
+- [@potiridi@mastodon.lol](https://mastodon.lol/@potiridi) 
 
 # S
 - [@strahil@mastodon.social](https://mastodon.social/@strahil)
 - [@simo_e_pich@mastodon.lol](https://mastodon.lol/@simo_e_pich)
 - [@svetyordanov@mastodon.social](https://mastodon.social/@svetyordanov)
+- [@shushi13bg@mastodon.social](https://mastodon.social/@shushi13bg)
 
 # T
 - [@torbalan@mastodon.nl](https://mastodon.nl/@torbalan)
@@ -120,11 +125,12 @@
 
 ## Български сървъри
 
- #Адрес  | Администратор | Дата на добавяне
+ #Адрес  | Администратор | Версия
 | ------------- | ------------- | ------------- |
-|[bgtooter.social](https://bgtooter.social) |[@gdanov@bgtooter.social](https://bgtooter.social/@gdanov) | 4.11 |
-|[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| 4.11 |
-|[mastodonbg.com](https://mastodonbg.com)| [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| 5.11 |
+|[bgtooter.social](https://bgtooter.social) |[@gdanov@bgtooter.social](https://bgtooter.social/@gdanov) | v4.0.0rc2 |
+|[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| v3.5.3 |
+|[mastodonbg.com](https://mastodonbg.com)| [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| v3.5.3 |
+|[hapyyr.com](https://hapyyr.com)| [@bogo@hapyyr.cin](https://hapyyr.com/web/@bogo)| v3.5.3 |
 
 
 ## Клиенти
