@@ -138,25 +138,9 @@
 |[hapyyr.com](https://hapyyr.com)| [@bogo@hapyyr.c0n](https://hapyyr.com/@bogo)| v3.5.3 | да, но с покани |
 
 
-## Клиенти
+# Полезни материали
 
-### Уеб
-Всеки сървър предлага уеб интерфейс, през който можете да пишете и четете в мрежата. Има и много помощни документи да се ориентирате какво точно се прави и защо.
-
-### Клиенти
-
-#### Декстоп
-- [Sengi](https://nicolasconstant.github.io/sengi/) - може да се използва какво и през уеб, така и през любимата ви операционна среда.
-
-#### Apple
-- [MetaText](https://apps.apple.com/us/app/metatext/id1523996615). Според много потребители е с добра ползваемост. Безплатен е и е с отворен код.
-
-#### Android
-- [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android&hl=en&gl=US) - малко дървен интерфейс, но работи добре. Не можете да правите всичко, което се прави през уеб-интерфейса.
-- [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky&gl=US) - малко наподобява интерфеса на туйтър. 
-
-## Какво е Mаstodon и защо е полезен
-за добавяне
-
-## Kак да се регистрирам
-за добавяне
+- [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
+- [Клиенти за достъп до MAstodon/Fediverse](articles/clients.md)
+- Какво е Mаstodon и защо е полезен (скоро)
+- Kак да се регистрирате (скоро)
