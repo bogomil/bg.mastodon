@@ -115,6 +115,7 @@
 - [@yovko@mastodon.sdf.org](https://mastodon.sdf.org/@yovko) - #IT #Blogging #Foss
 - [@yurukov@mastodon.green](https://mastodon.green/@yurukov)
 - [@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)
+- [@yulimoto@nerdculture.de](https://nerdculture.de/@yulimoto)
 
 
 ## Български сървъри
