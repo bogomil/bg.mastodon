@@ -29,6 +29,9 @@ Mastodon е с отворен код, което означава, че всек
 
 # Списък на хора, които пишат и на български.
 
+# Файл
+Ако искате да следите всички акаунти, [ето тук](files/following_list_bg.mastodon.csv) има файл, който можете да използвате за целта.  Обикновено менюто за целта е <code>settings/import</code>
+
 # А
 - [@Abe_angele@mastodon.social](https://mastodon.social/@Abe_angele)
 - [@Aragorn_BG@mstdn.social](https://mstdn.social/@Aragorn_BG)
