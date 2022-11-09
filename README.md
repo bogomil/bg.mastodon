@@ -35,6 +35,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@aquarium@mastodon.social](https://mastodon.social/@aquarium)
 - [@acnapyx@mastodon.social](https://mastodon.social/@acnapyx)
 - [@a_tanas@mastodon.social](https://mastodon.social/@a_tanas)
+- [@abozhilov@fosstodon.org](https://fosstodon.org/@abozhilov)
 
 # B
 - [@bogo@hapyyr.com](https://hapyyr.com/@bogo) - #DigitalTrust, #FOSS, #Privacy
@@ -57,9 +58,11 @@ Mastodon е с отворен код, което означава, че всек
 - [@dHardestBattles@mastodon.social](https://mastodon.social/@dHardestBattles)
 - [@ddelsizov@mastodon.lol ](https://mastodon.lol/@ddelsizov)
 - [@dimitarcharov@c.im](https://c.im/@dimitarcharov)
+- [@dimi@eupolicy.social](https://eupolicy.social/@dimi)
 
 # E
 - [@evakeinbock@mastodon.social](https://mastodon.social/@evakeinbock)
+- [@Em_M@bg.cafe](https://bg.cafe/@Em_M)
 
 # F
 - [@face@bitcoinhackers.org](https://bitcoinhackers.org/@face)
@@ -72,12 +75,14 @@ Mastodon е с отворен код, което означава, че всек
 
 # J
 - [@ju@mastodon.social](https://mastodon.social/@ju)
+- [@joannaelmy@c.im](https://c.im/@joannaelmy)
 
 # K 
 - [@kunev@mastodon.green](https://mastodon.green/@kunev)
 - [@kido_bea@mastodon.social](https://mastodon.social/@kido_bea)
 - [@karakusheva@mstdn.social](https://mstdn.social/@karakusheva) - #Music
 - [@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen)
+- [@krassina@mas.to](https://mas.to/@krassina)
 
 # L 
 - [@ltinuviel@mastodon.lol](https://mastodon.lol/@ltinuviel)
@@ -99,6 +104,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@nikoinikov@mastodon.social](https://astodon.social/@nikoinikov)
 - [@Nevyana@mastodon.lol](https://mastodon.lol/@Nevyana)
 - [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto) - tech, AI, politics
+- [@nsilizagluposti@c.im](https://c.im/@nsilizagluposti)
 
 # O
 - [@optimiced@mastodon.social](https://mastodon.social/@optimiced)
@@ -117,6 +123,8 @@ Mastodon е с отворен код, което означава, че всек
 - [@simo_e_pich@mastodon.lol](https://mastodon.lol/@simo_e_pich)
 - [@svetyordanov@mastodon.social](https://mastodon.social/@svetyordanov)
 - [@shushi13bg@mastodon.social](https://mastodon.social/@shushi13bg)
+- [@Simona_Lyubomirova@bg.cafe](https://bg.cafe/@Simona_Lyubomirova)
+- [@sabina@toot.wales](https://toor.wales/@sabina)
 
 # T
 - [@torbalan@mastodon.nl](https://mastodon.nl/@torbalan)
@@ -156,3 +164,14 @@ Mastodon е с отворен код, което означава, че всек
 
 - [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
 - [Клиенти за достъп до MAstodon/Fediverse](articles/clients.md)
+
+
+
+
+
+
+
+
+
+
+
