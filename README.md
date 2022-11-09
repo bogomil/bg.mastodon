@@ -131,6 +131,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@shushi13bg@mastodon.social](https://mastodon.social/@shushi13bg)
 - [@Simona_Lyubomirova@bg.cafe](https://bg.cafe/@Simona_Lyubomirova)
 - [@sabina@toot.wales](https://toor.wales/@sabina)
+- [@sve@c.im](https://c.im/@sve)
 
 # T
 - [@torbalan@mastodon.nl](https://mastodon.nl/@torbalan)
