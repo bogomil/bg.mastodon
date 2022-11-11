@@ -11,6 +11,12 @@ Mastodon е с отворен код, което означава, че всек
 Финансира се от спонсори, които можете да видите на страницата на проекта. От там също можете и да ги подкрепите с дарения.
 Вместо това има потребителски управлявани сървъри, които работят както независимо, така и взаимозависимо. 
 
+## Полезни мини-статии
+
+- [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
+- [Клиенти за достъп до Mаstodon/Fediverse](articles/clients.md)
+- [Полезни тагове](articles/tags.md)
+
 ## Oще информация?
 - [Прочетете великолепната статия в "Булевард България"](https://boulevardbulgaria.bg/articles/mastodon-alternativata-na-twitter-koyato-napomnya-za-vremeto-na-mirc)
 
@@ -178,12 +184,6 @@ Mastodon е с отворен код, което означава, че всек
 |[mastodonbg.com](https://mastodonbg.com)| [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| v3.5.3 | да |
 |[hapyyr.com](https://hapyyr.com)| [@bogo@hapyyr.c0n](https://hapyyr.com/@bogo)| v3.5.3 | да, но с покани |
 
-
-# Полезни материали
-
-- [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
-- [Клиенти за достъп до Mаstodon/Fediverse](articles/clients.md)
-- [Полезни тагове)](articles/tags.md)
 
 
 
