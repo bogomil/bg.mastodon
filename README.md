@@ -52,6 +52,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права 
 - [@boris_@mastodon.social](https://mastodon.social/@boris_)
 - [@bubulina@mstdn.social](https://mstdn.social/@bubulina)
+- [@borj@mstdn.io](https://mstdn.io/@borj)
 
 # C
 - [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
@@ -64,7 +65,8 @@ Mastodon е с отворен код, което означава, че всек
 - [@dHardestBattles@mastodon.social](https://mastodon.social/@dHardestBattles)
 - [@ddelsizov@mastodon.lol ](https://mastodon.lol/@ddelsizov)
 - [@dimitarcharov@c.im](https://c.im/@dimitarcharov)
-- [@dimi@eupolicy.social](https://eupolicy.social/@dimi)
+- [@dimi@eupolicy.social](https://eupolicy.social/@dimi) - #public domain #wikimedia
+- [@deadsmurf@mastodon.green](https://mastodon.green/@deadsmurf) 
 
 # E
 - [@evakeinbock@mastodon.social](https://mastodon.social/@evakeinbock)
@@ -78,6 +80,7 @@ Mastodon е с отворен код, което означава, че всек
 
 # I
 - [@ivanangelov@mastodon.social](https://mastodon.social/@ivanangelov)
+
 
 # J
 - [@ju@mastodon.social](https://mastodon.social/@ju)
@@ -104,6 +107,8 @@ Mastodon е с отворен код, което означава, че всек
 - [@molif@mastodon.social](https://mastodon.social/@molif)
 - [@milengg@mastodon.social](https://mastodon.social/@milengg) - #Plastic extrusion, #Flexoprinting, #Open Source, #ERP & CRM software|
 - [@mviktoro@mastodon.social](https://mastodon.social/@mviktoro) - #digital ethics
+- [@mrrmot@oldbytes.space](https://oldbytes.space/@mrrmot)
+- [@Marfieta@bg.cafe](https://bg.cafe/@Marfieta)
 
 
 # N
@@ -123,6 +128,7 @@ Mastodon е с отворен код, което означава, че всек
 
 # R
 - [@ralchev@mastodon.social](https://mastodon.social/@ralchev)
+- [@radidag@mastodon.social](https://mastodon.social/@radidag)
 
 # S
 - [@strahil@mastodon.social](https://mastodon.social/@strahil)
@@ -132,6 +138,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@Simona_Lyubomirova@bg.cafe](https://bg.cafe/@Simona_Lyubomirova)
 - [@sabina@toot.wales](https://toor.wales/@sabina)
 - [@sve@c.im](https://c.im/@sve)
+- [@soregashi@mas.to](https://mas.to/@soregashi)
 
 # T
 - [@torbalan@mastodon.nl](https://mastodon.nl/@torbalan)
@@ -147,6 +154,10 @@ Mastodon е с отворен код, което означава, че всек
 # V 
 - [@Vachwarz@mastodon.social](https://mastodon.social/@Vachwarz)
 - [@vihargg@mast.to](https://mas.to/@vihargg) -  #PublicPolicy, #eGovernment, #DigitalTransformation, #EU #policymaking
+- [@Vernim@mastodon.online](https://mastodon.online/@Vernim)
+
+# W
+- [@wakeop@mastodon.social](https://mastodon.social/@wakeop)
 
 # Y 
 - [@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)
@@ -154,6 +165,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@yovko@mastodon.sdf.org](https://mastodon.sdf.org/@yovko) - #IT #Blogging #Foss
 - [@yurukov@mastodon.green](https://mastodon.green/@yurukov)
 - [@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)
+- [@yana@sciences.social](https://sciences.social/@yana) - #sociology, #environmentaljustice, #socialpolicy
 - [@yulimoto@nerdculture.de](https://nerdculture.de/@yulimoto)
 
 
@@ -171,7 +183,6 @@ Mastodon е с отворен код, което означава, че всек
 
 - [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
 - [Клиенти за достъп до MAstodon/Fediverse](articles/clients.md)
-
 
 
 
