@@ -106,6 +106,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@lifeofmartina__@mastodon.social](https://mastodon.social/@lifeofmartina__) - #travel,  #nature, and #photography
 - [@laveol@mastodon.lol](https://mastodon.lol/@laveol)
 - [@lanzz@c.im](https://c.im/@lanzz)
+- [@lachezar@mastodon.nu](https://mastodon.nu/web/@lachezar)
 
 # M
 - [@muiiio@mstdn.io](http://mstdn.io/@muiiio)
