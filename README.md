@@ -62,6 +62,7 @@ Mastodon е с отворен код, което означава, че всек
 
 # C
 - [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
+- [@canulatemper@bg.cafe(https://bg.cafe/@canulatemper)]
 
 # D
 - [@d__b@mastodon.social](https://mastodon.social/@d__b)
@@ -153,6 +154,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@tweykini@mastodon.lol](https://mastodon.lol/@tweykini)
 - [@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)
 - [@traffopost@bg.cafe](https://bg.cafe/@traffopost)
+- [@thatfatguy_bg@mastodon.social](https://mastodon.social/@thatfatguy_bg)
 
 # U
 - [@uesnonema@mastodon.online](https://mastodon.online/@uesnonema)
