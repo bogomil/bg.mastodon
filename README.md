@@ -55,6 +55,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
 - [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky) - bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora)
+- [@blum@bgtooter.social](https://bgtooter.social/@blum)
 - [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права 
 - [@boris_@mastodon.social](https://mastodon.social/@boris_)
 - [@bubulina@mstdn.social](https://mstdn.social/@bubulina)
