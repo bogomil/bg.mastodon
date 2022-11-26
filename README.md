@@ -82,6 +82,7 @@ Mastodon е с отворен код, което означава, че всек
 
 # F
 - [@face@bitcoinhackers.org](https://bitcoinhackers.org/@face)
+- [@fipo@bg.cafe](https://bg.cafe/@fipo)
 
 # G
 - [@gyd1992@mastodon.lol](https://mastodon.lol/@gyd1992)
