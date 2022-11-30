@@ -161,15 +161,16 @@ Mastodon е с отворен код, което означава, че всек
 # U
 - [@uesnonema@mastodon.online](https://mastodon.online/@uesnonema)
 
-# V 
+# V
 - [@Vachwarz@mastodon.social](https://mastodon.social/@Vachwarz)
 - [@vihargg@mast.to](https://mas.to/@vihargg) -  #PublicPolicy, #eGovernment, #DigitalTransformation, #EU #policymaking
 - [@Vernim@mastodon.online](https://mastodon.online/@Vernim)
+- [@vpenkoff@berlin.social](https://berlin.social/@vpenkoff)
 
 # W
 - [@wakeop@mastodon.social](https://mastodon.social/@wakeop)
 
-# Y 
+# Y
 - [@yellowtulip@mastodon.social](https://mastodon.social/@yellowtulip)
 - [@YavorDonev@mastodon.social](https://mastodon.social/@YavorDonev)
 - [@yovko@mastodon.sdf.org](https://mastodon.sdf.org/@yovko) - #IT #Blogging #Foss
