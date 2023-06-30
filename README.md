@@ -62,7 +62,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@borj@mstdn.io](https://mstdn.io/@borj)
 
 # C
-- [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
+- [@cellfourteen@social.petertoushkov.eu](https://social.petertoushkov.eu/@cellfourteen)
 - [@canulatemper@bg.cafe](https://bg.cafe/@canulatemper)
 
 # D
@@ -95,14 +95,14 @@ Mastodon е с отворен код, което означава, че всек
 - [@ju@mastodon.social](https://mastodon.social/@ju)
 - [@joannaelmy@c.im](https://c.im/@joannaelmy)
 
-# K 
-- [@kunev@mastodon.green](https://mastodon.green/@kunev)
+# K
+- [@kunev@blewsky.social](https://blewsky.social/@kunev)
 - [@kido_bea@mastodon.social](https://mastodon.social/@kido_bea)
 - [@karakusheva@mstdn.social](https://mstdn.social/@karakusheva) - #Music
 - [@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen)
 - [@krassina@mas.to](https://mas.to/@krassina)
 
-# L 
+# L
 - [@ltinuviel@mastodon.lol](https://mastodon.lol/@ltinuviel)
 - [@letterornumber@mastodon.social](https://mastodon.social/@letterornumber)
 - [@lifeofmartina__@mastodon.social](https://mastodon.social/@lifeofmartina__) - #travel,  #nature, and #photography
@@ -111,7 +111,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@lachezar@mastodon.nu](https://mastodon.nu/web/@lachezar)
 
 # M
-- [@muiiio@mstdn.io](http://mstdn.io/@muiiio)
+- [@muiiio@mst.muiiio.com](http:/mst.muiiio.com/@muiiio)
 - [@magesnik@mastodon.social](https://mastodon.social/@magesnik)
 - [@marticha@mastodon.social](https://mastodon.social/@marticha)
 - [@molif@mastodon.social](https://mastodon.social/@molif)
