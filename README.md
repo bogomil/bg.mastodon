@@ -59,6 +59,7 @@ Fediverse мрежата е създадена с идеята да бъде о�
 - [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
 - [Клиенти за достъп до Mаstodon/Fediverse](articles/clients.md)
 - [Полезни тагове](articles/tags.md)
+- [Списъци с публикации](articles/timelines.md)
 
 ## Oще информация?
 - [Прочетете великолепната статия в "Булевард България"](https://boulevardbulgaria.bg/articles/mastodon-alternativata-na-twitter-koyato-napomnya-za-vremeto-na-mirc)
