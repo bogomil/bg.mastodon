@@ -60,6 +60,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@boris_@mastodon.social](https://mastodon.social/@boris_)
 - [@bubulina@mstdn.social](https://mstdn.social/@bubulina)
 - [@borj@mstdn.io](https://mstdn.io/@borj)
+- [@bundyo@bundyo.com](https://bundyo.com/@bundyo) - Web, CSS, JS, Linux, котки, снимки, метъл, политика
 
 # C
 - [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
