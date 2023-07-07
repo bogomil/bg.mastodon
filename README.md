@@ -3,9 +3,10 @@
 # Спокойно! Всичко ще бъде наред! 😊
 
 
-# Какво е Мастодон
+# Kакво е Мастодон
 [Mastodon](https://docs.joinmastodon.org/) е микроблогинг платформа. Тя включва хаштагове, търсене на потребителски акаунти, маркиране, качване на медии и т.н.
-Ключовата разлика е, че Mastodon е децентрализиран, което означава, че няма един субект, който да отговаря за него, за разлика от Twitter или Facebook.
+Ключовата разлика е, че Mastodon е децентрализиран, което означава, че няма един субект, който да отговаря за него, както е например с Twitter.
+
 
 Можете да общувате с хора както на локалния си сървър така и на други сървъри. Мастодон е част от Fediverse мрежата.
 
@@ -54,6 +55,7 @@ Mastodon е с отворен код, което означава, че всек
 
 Fediverse мрежата е създадена с идеята да бъде отворена и да дава на хората, които я ползват максимално количество свобода. **Можете да се преместите на друга инстанция във всеки един момент.**
 
+
 ## Полезни мини-статии
 
 - [Как да дадете на Wordpress блога си Fediverse адрес](articles/wordpress.md)
@@ -97,16 +99,16 @@ Fediverse мрежата е създадена с идеята да бъде о�
 - [@bogo@hapyyr.com](https://hapyyr.com/@bogo) - #DigitalTrust, #FOSS, #Privacy
 - [@bebodebel@mastodon.social](https://mastodon.social/@bebodebel)
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
-- [@btanev@mastodon.social](https://mastodon.social/@btanev)
 - [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky) - bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora)
 - [@blum@bgtooter.social](https://bgtooter.social/@blum)
 - [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права
 - [@boris_@mastodon.social](https://mastodon.social/@boris_)
 - [@bubulina@mstdn.social](https://mstdn.social/@bubulina)
 - [@borj@mstdn.io](https://mstdn.io/@borj)
+- [@bundyo@bundyo.com](https://bundyo.com/@bundyo) - Web, CSS, JS, Linux, котки, снимки, метъл, политика
 
 # C
-- [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
+- [@cellfourteen@social.petertoushkov.eu](https://social.petertoushkov.eu/@cellfourteen)
 - [@canulatemper@bg.cafe](https://bg.cafe/@canulatemper)
 
 # D
@@ -141,6 +143,7 @@ Fediverse мрежата е създадена с идеята да бъде о�
 
 # K
 - [@kunev@mastodon.green](https://mastodon.green/@kunev)
+
 - [@kido_bea@mastodon.social](https://mastodon.social/@kido_bea)
 - [@karakusheva@mstdn.social](https://mstdn.social/@karakusheva) - #Music
 - [@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen)
@@ -155,7 +158,7 @@ Fediverse мрежата е създадена с идеята да бъде о�
 - [@lachezar@mastodon.nu](https://mastodon.nu/web/@lachezar)
 
 # M
-- [@muiiio@mstdn.io](http://mstdn.io/@muiiio)
+- [@muiiio@mst.muiiio.com](http:/mst.muiiio.com/@muiiio)
 - [@magesnik@mastodon.social](https://mastodon.social/@magesnik)
 - [@marticha@mastodon.social](https://mastodon.social/@marticha)
 - [@molif@mastodon.social](https://mastodon.social/@molif)
@@ -196,7 +199,6 @@ Fediverse мрежата е създадена с идеята да бъде о�
 
 # T
 - [@torbalan@mastodon.nl](https://mastodon.nl/@torbalan)
-- [@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)
 - [@tsvetelin@mstdn.io](https://mstdn.io/@tsvetelin)
 - [@tweykini@mastodon.lol](https://mastodon.lol/@tweykini)
 - [@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)
