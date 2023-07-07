@@ -1,15 +1,15 @@
-[en ]This account contains a list of accounts and valuable info for the Bulgarian Mastodon space. 
+[en ]This account contains a list of accounts and valuable info for the Bulgarian Mastodon space.
 
 
 # Kакво е Мастодон
-[Mastodon](https://docs.joinmastodon.org/) е микроблогинг платформа. Тя включва хаштагове, търсене на потребителски акаунти, маркиране, качване на медии и т.н. 
+[Mastodon](https://docs.joinmastodon.org/) е микроблогинг платформа. Тя включва хаштагове, търсене на потребителски акаунти, маркиране, качване на медии и т.н.
 Ключовата разлика е, че Mastodon е децентрализиран, което означава, че няма един субект, който да отговаря за него, както е например с Twitter.
 
 Можете да чатите с хора на локалния си сървър или да говорите с други потребители на различни от вашия сървър.
 
 Mastodon е с отворен код, което означава, че всеки може да погледне кода, да го използва, за да направи свои собствени сървъри или продукти на основата му.
 Финансира се от спонсори, които можете да видите на страницата на проекта. От там също можете и да ги подкрепите с дарения.
-Вместо това има потребителски управлявани сървъри, които работят както независимо, така и взаимозависимо. 
+Вместо това има потребителски управлявани сървъри, които работят както независимо, така и взаимозависимо.
 
 ## Полезни мини-статии
 
@@ -24,8 +24,8 @@ Mastodon е с отворен код, което означава, че всек
 Тук ще намерите информация за интересни хора и инициативи, които можете да следвате в [федеративната мрежа Mastodon](https://docs.joinmastodon.org/).
 
 # 🤩 Кафе
-Отнема ми един час дневно да поддържам този каталог и да попълвам полезна информация, която да прави вашия ден интересен. 
-Ако искате да ми помогнете - купете ми една бира или кафе от линка в дясната част. 
+Отнема ми един час дневно да поддържам този каталог и да попълвам полезна информация, която да прави вашия ден интересен.
+Ако искате да ми помогнете - купете ми една бира или кафе от линка в дясната част.
 Благодаря!
 
 # Добавянe/Редактиране/Изтриване
@@ -51,30 +51,30 @@ Mastodon е с отворен код, което означава, че всек
 
 # B
 - [@bogo@hapyyr.com](https://hapyyr.com/@bogo) - #DigitalTrust, #FOSS, #Privacy
-- [@bebodebel@mastodon.social](https://mastodon.social/@bebodebel) 
+- [@bebodebel@mastodon.social](https://mastodon.social/@bebodebel)
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
 - [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky) - bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora)
 - [@blum@bgtooter.social](https://bgtooter.social/@blum)
-- [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права 
+- [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права
 - [@boris_@mastodon.social](https://mastodon.social/@boris_)
 - [@bubulina@mstdn.social](https://mstdn.social/@bubulina)
 - [@borj@mstdn.io](https://mstdn.io/@borj)
 
 # C
-- [@cellfourteen@mastodon.social](https://mastodon.social/@cellfourteen)
+- [@cellfourteen@social.petertoushkov.eu](https://social.petertoushkov.eu/@cellfourteen)
 - [@canulatemper@bg.cafe](https://bg.cafe/@canulatemper)
 
 # D
 - [@d__b@mastodon.social](https://mastodon.social/@d__b)
-- [@DaniIvanov@mastodon.social](https://mastodon.social/@DaniIvanov) - #Журналистика 
-- [@danaildr@mastodon.social](https://mastodon.social/@danaildr) - #foss, #Linux 
+- [@DaniIvanov@mastodon.social](https://mastodon.social/@DaniIvanov) - #Журналистика
+- [@danaildr@mastodon.social](https://mastodon.social/@danaildr) - #foss, #Linux
 - [@dni@mastodon.social](https://mastodon.social@dni)
 - [@dHardestBattles@mastodon.social](https://mastodon.social/@dHardestBattles)
 - [@ddelsizov@mastodon.lol ](https://mastodon.lol/@ddelsizov)
 - [@dimitarcharov@c.im](https://c.im/@dimitarcharov)
 - [@dimi@eupolicy.social](https://eupolicy.social/@dimi) - #public domain #wikimedia
-- [@deadsmurf@mastodon.green](https://mastodon.green/@deadsmurf) 
+- [@deadsmurf@mastodon.green](https://mastodon.green/@deadsmurf)
 
 # E
 - [@evakeinbock@mastodon.social](https://mastodon.social/@evakeinbock)
@@ -95,14 +95,14 @@ Mastodon е с отворен код, което означава, че всек
 - [@ju@mastodon.social](https://mastodon.social/@ju)
 - [@joannaelmy@c.im](https://c.im/@joannaelmy)
 
-# K 
-- [@kunev@mastodon.green](https://mastodon.green/@kunev)
+# K
+- [@kunev@blewsky.social](https://blewsky.social/@kunev)
 - [@kido_bea@mastodon.social](https://mastodon.social/@kido_bea)
 - [@karakusheva@mstdn.social](https://mstdn.social/@karakusheva) - #Music
 - [@KostovKamen@mastodon.social](https://mastodon.social/@KostovKamen)
 - [@krassina@mas.to](https://mas.to/@krassina)
 
-# L 
+# L
 - [@ltinuviel@mastodon.lol](https://mastodon.lol/@ltinuviel)
 - [@letterornumber@mastodon.social](https://mastodon.social/@letterornumber)
 - [@lifeofmartina__@mastodon.social](https://mastodon.social/@lifeofmartina__) - #travel,  #nature, and #photography
@@ -111,7 +111,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@lachezar@mastodon.nu](https://mastodon.nu/web/@lachezar)
 
 # M
-- [@muiiio@mstdn.io](http://mstdn.io/@muiiio)
+- [@muiiio@mst.muiiio.com](http:/mst.muiiio.com/@muiiio)
 - [@magesnik@mastodon.social](https://mastodon.social/@magesnik)
 - [@marticha@mastodon.social](https://mastodon.social/@marticha)
 - [@molif@mastodon.social](https://mastodon.social/@molif)
@@ -134,7 +134,7 @@ Mastodon е с отворен код, което означава, че всек
 - [@petko@petko.me](https://petko.me/@petko)
 - [@preslavrachev@mastodon.social](https://mastodon.social/@preslavrachev)
 - [@Peio@c.im](https://c.im/@Peio)
-- [@potiridi@mastodon.lol](https://mastodon.lol/@potiridi) 
+- [@potiridi@mastodon.lol](https://mastodon.lol/@potiridi)
 
 # R
 - [@ralchev@mastodon.social](https://mastodon.social/@ralchev)
@@ -189,14 +189,3 @@ Mastodon е с отворен код, което означава, че всек
 |[bg.cafe](https://bg.cafe)| [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky)| v3.5.3 |да |
 |[mastodonbg.com](https://mastodonbg.com)| [@nasakoto@mastodonbg.com](https://mastodonbg.com/web/@nasakoto)| v3.5.3 | да |
 |[hapyyr.com](https://hapyyr.com)| [@bogo@hapyyr.c0n](https://hapyyr.com/@bogo)| v3.5.3 | да, но с покани |
-
-
-
-
-
-
-
-
-
-
-
