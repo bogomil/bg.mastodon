@@ -53,7 +53,6 @@ Mastodon е с отворен код, което означава, че всек
 - [@bogo@hapyyr.com](https://hapyyr.com/@bogo) - #DigitalTrust, #FOSS, #Privacy
 - [@bebodebel@mastodon.social](https://mastodon.social/@bebodebel)
 - [@btanev@mastodon.social](https://mastodon.social/@btanev)
-- [@btanev@mastodon.social](https://mastodon.social/@btanev)
 - [@Blinky@bg.cafe](https://bg.cafe/web/@Blinky) - bg.cafe - Български Мастодон инстанция, (art&crafts, CNC, 3Dprinting, Twitter diaspora)
 - [@blum@bgtooter.social](https://bgtooter.social/@blum)
 - [@bozho@mastodon.social](https://mastodon.social/@bozho) -#политика, #цифрови права
@@ -152,7 +151,6 @@ Mastodon е с отворен код, което означава, че всек
 
 # T
 - [@torbalan@mastodon.nl](https://mastodon.nl/@torbalan)
-- [@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)
 - [@tsvetelin@mstdn.io](https://mstdn.io/@tsvetelin)
 - [@tweykini@mastodon.lol](https://mastodon.lol/@tweykini)
 - [@todoralexandrov@mastodon.social](https://mastodon.social/@todoralexandrov)
